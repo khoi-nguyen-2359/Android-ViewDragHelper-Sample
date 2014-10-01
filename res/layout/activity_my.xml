@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.flavienlaurent.vdh.MyLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <View
+        android:id="@+id/view_square"
+        android:layout_width="96dp"
+        android:layout_height="96dp"
+        android:background="@drawable/shape_circle" />
+
+</com.flavienlaurent.vdh.MyLayout>
